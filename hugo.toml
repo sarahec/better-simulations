@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://better-simulations.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Build Better Simulations'
+theme = 'teach'
