@@ -1,0 +1,16 @@
+{
+  "name": "better-simulations",
+  "version": "0.0.1",
+  "description": "Better learning through simulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "postcss-cli": "^11.0.0"
+  }
+}

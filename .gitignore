@@ -1,5 +1,5 @@
 # Generated files by hugo
-/public/
+public/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
@@ -18,6 +18,9 @@ hugo.linux
 # Editor cruft
 *.swp
 *~
+
+# node
+node_modules
 
 # Secrets
 .env
